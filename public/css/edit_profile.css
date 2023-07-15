@@ -1,0 +1,10 @@
+.edit-prof-form{
+    margin-left: 250px;
+    padding-left: 80px;
+}
+.image-cont{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
