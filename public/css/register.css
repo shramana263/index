@@ -1,0 +1,23 @@
+.card-header{
+    background-color: #ffffff00 !important;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 60px; */
+    border-bottom: none;
+    /* background: transparent; */
+}
+.card{
+    background-color: #ffffff !important;
+    /* height: 600px; */
+    background: rgb(255,209,0);
+    background: linear-gradient(45deg, rgba(255,209,0,1) 0%, rgba(255,159,4,1) 23%, rgba(255,11,11,1) 65%, rgb(133, 0, 145) 94%);
+    box-shadow: #000000dd 0px 25px 20px -20px;
+    border: none;
+}
+
+.form-control{
+    /* background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000; */
+    border-radius: 2px;
+}
